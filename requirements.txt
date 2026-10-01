@@ -1,0 +1,5 @@
+opencv-python>=4.8
+numpy
+# Person detection with YOLO (recommended). If this can't be installed,
+# the system falls back to OpenCV's HOG person detector automatically.
+ultralytics
